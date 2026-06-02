@@ -110,7 +110,7 @@ Apresenta a variação do faturamento ao longo do período analisado.
 
 ### Visão Geral
 
-![Dashboard Principal]("https://github.com/devlucassilvaver/dashboard-vendas-powerbi/blob/main/imagens/dashboard-geral.png?raw=true")
+![Dashboard Principal](imagens/dashboard-geral.png)
 
 ## Estrutura do Repositório
 
