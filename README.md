@@ -1,3 +1,4 @@
+
 # Dashboard de Análise de Vendas
 
 ## Sobre o Projeto
@@ -126,3 +127,5 @@ Apresenta a variação do faturamento ao longo do período analisado.
 Lucas Silva
 
 Projeto desenvolvido para fins de estudo e aprimoramento das habilidades em Business Intelligence, Power BI, ETL, Modelagem de Dados e DAX.
+=======
+# dashboard-vendas-powerbi
